@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <!-- Página principal -->
+  <url>
+    <loc>https://www.gruposantino.com/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>1.0</priority>
+  </url>
+  <!-- Páginas de navegación -->
+  <url><loc>https://www.gruposantino.com/nosotros</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://www.gruposantino.com/muestrario</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://www.gruposantino.com/blog</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://www.gruposantino.com/noticias</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://www.gruposantino.com/contactar</loc><changefreq>monthly</changefreq><priority>0.6</priority></url>
+  <!-- Ejemplos de entradas del blog -->
+  <url><loc>https://www.gruposantino.com/blog/materiales-para-suelas-de-zapatos-con-qu%C3%A9-se-fabrican</loc><changefreq>yearly</changefreq><priority>0.5</priority></url>
+  <url><loc>https://www.gruposantino.com/blog/cómo-se-fabrica-una-suela</loc><changefreq>yearly</changefreq><priority>0.5</priority></url>
+</urlset>
